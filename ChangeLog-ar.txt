@@ -1,4 +1,4 @@
-{"version_code":45128,"content":"
+{"version_code":451210,"content":"
 <p>تحديث 1.20</p>
 
 <li>تحديث أصلاحي جديد</li>
@@ -11,5 +11,5 @@
 <li>Repair of the two blue waters within the talks</li>
 <li>Supported systems are 4.4.2 and higher</li>
 
-","url":"https://esmaeel.deviswa.com/2019/02/new-update-iswhatsapp-business-v120.html"
+","url":"https://ahmadali8.blogspot.com/"
 }
